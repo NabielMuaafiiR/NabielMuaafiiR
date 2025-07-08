@@ -45,10 +45,10 @@
 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=radical" alt="[username]" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NabielMuaafiiR&show_icons=true&theme=radical" alt="[username]" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[username]&theme=radical" alt="[username]" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NabielMuaafiiR&theme=radical" alt="[username]" />
 </p>
 
 ---
