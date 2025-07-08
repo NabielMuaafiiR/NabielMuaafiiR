@@ -3,10 +3,6 @@
 <h3 align="center">Aspiring Machine Learning Engineer | Data Scientist | AI Engineer passionate about building impactful technology</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[username]&label=Profile%20views&color=0e75b6&style=flat" alt="[username]" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/nabiel-muaafii-34b722247/" target="blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
