@@ -1,4 +1,3 @@
-## Hi there 👋
 <!-- Profil README GitHub -->
 <h1 align="center">Hi 👋, I'm Nabiel Muaafii Rahman</h1>
 <h3 align="center">Aspiring Machine Learning Engineer | Data Scientist | AI Engineer passionate about building impactful technology</h3>
